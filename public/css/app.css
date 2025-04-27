@@ -7,7 +7,7 @@ https://templatemo.com/tm-588-ebook-landing
 */
 
 /*---------------------------------------
-  CUSTOM PROPERTIES ( VARIABLES )             
+  CUSTOM PROPERTIES ( VARIABLES )
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
@@ -45,12 +45,12 @@ https://templatemo.com/tm-588-ebook-landing
 
 body {
   background-color: var(--white-color);
-  font-family: var(--body-font-family); 
+  font-family: var(--body-font-family);
 }
 
 
 /*---------------------------------------
-  TYPOGRAPHY               
+  TYPOGRAPHY
 -----------------------------------------*/
 
 h2,
@@ -109,7 +109,7 @@ ul li {
   font-weight: var(--font-weight-normal);
 }
 
-a, 
+a,
 button {
   touch-action: manipulation;
   transition: all 0.3s;
@@ -132,7 +132,7 @@ strong {
 
 
 /*---------------------------------------
-  SECTION               
+  SECTION
 -----------------------------------------*/
 .section-padding {
   padding-top: 100px;
@@ -146,7 +146,7 @@ strong {
 
 
 /*---------------------------------------
-  AVATAR IMAGE               
+  AVATAR IMAGE
 -----------------------------------------*/
 .avatar-image {
   border: 4px solid var(--white-color);
@@ -191,7 +191,7 @@ strong {
 
 
 /*---------------------------------------
-  CUSTOM LINK              
+  CUSTOM LINK
 -----------------------------------------*/
 .link {
   cursor: pointer;
@@ -262,7 +262,7 @@ strong {
 
 
 /*---------------------------------------
-  CUSTOM BUTTON               
+  CUSTOM BUTTON
 -----------------------------------------*/
 .custom-btn {
   background: var(--custom-btn-bg-color);
@@ -403,7 +403,7 @@ strong {
 
 
 /*---------------------------------------
-  NAVIGATION              
+  NAVIGATION
 -----------------------------------------*/
 .sticky-wrapper {
   position: absolute;
@@ -477,7 +477,7 @@ strong {
   padding-bottom: 15px;
 }
 
-.navbar-nav .nav-link.active, 
+.navbar-nav .nav-link.active,
 .navbar-nav .nav-link:hover {
   color: var(--primary-color);
 }
@@ -550,10 +550,10 @@ strong {
 
 
 /*---------------------------------------
-  HERO        
+  HERO
 -----------------------------------------*/
 .hero-section {
-  background-image: url('../images/businessman-sitting-by-table-cafe.jpg');
+  background-image: url('../images/twc-img/[LP] TWC HangOut 1.0 19102019 -163.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -595,7 +595,7 @@ strong {
 
 
 /*---------------------------------------
-  FEATURED              
+  FEATURED
 -----------------------------------------*/
 .featured-section {
   background-color: var(--custom-btn-bg-color);
@@ -619,10 +619,10 @@ strong {
 
 
 /*---------------------------------------
-  CUSTOM BLOCK              
+  CUSTOM BLOCK
 -----------------------------------------*/
 .custom-block {
-  background-image: url('../images/businessman-sitting-by-table-cafe.jpg');
+  background-image: url('../images/businessman-sitting-by-table-cafe.jg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -684,7 +684,7 @@ strong {
 
 
 /*---------------------------------------
-  THE BOOK SECTION            
+  THE BOOK SECTION
 -----------------------------------------*/
 .book-section-info {
   padding-top: 40px;
@@ -710,7 +710,7 @@ strong {
 }
 
 .nav-pills .nav-link:hover,
-.nav-pills .nav-link.active, 
+.nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
   background: var(--primary-color);
   color: var(--white-color);
@@ -763,7 +763,7 @@ strong {
 
 
 /*---------------------------------------
-  AUTHOR SECTION            
+  AUTHOR SECTION
 -----------------------------------------*/
 .author-section {
   background-image: url('../images/circle-scatter-haikei.png');
@@ -786,7 +786,7 @@ strong {
 
 
 /*---------------------------------------
-  DIVIDER SECTION               
+  DIVIDER SECTION
 -----------------------------------------*/
 .divider-section {
   background-image: url('../images/wave-haikei.png');
@@ -797,7 +797,7 @@ strong {
 
 
 /*---------------------------------------
-  CONTACT               
+  CONTACT
 -----------------------------------------*/
 .contact-section {
   background: var(--custom-btn-bg-color);
@@ -837,7 +837,7 @@ strong {
 
 
 /*---------------------------------------
-  EBOOK DOWNLOAD FORM               
+  EBOOK DOWNLOAD FORM
 -----------------------------------------*/
 .contact-form {
   border-radius: var(--border-radius-medium);
@@ -848,7 +848,7 @@ strong {
 
 
 /*---------------------------------------
-  CUSTOM FORM               
+  CUSTOM FORM
 -----------------------------------------*/
 .custom-form .form-control {
   border-radius: var(--border-radius-large);
@@ -912,7 +912,7 @@ strong {
 
 
 /*---------------------------------------
-  SOCIAL ICON               
+  SOCIAL ICON
 -----------------------------------------*/
 .social-icon {
   margin: 0;
@@ -946,7 +946,7 @@ strong {
 
 
 /*---------------------------------------
-  RESPONSIVE STYLES               
+  RESPONSIVE STYLES
 -----------------------------------------*/
 @media screen and (max-width: 991px) {
   h1 {
@@ -977,7 +977,7 @@ strong {
     padding-top: 50px;
     padding-bottom: 50px;
   }
-  
+
   .navbar {
     background-color: rgba(0, 0, 0, 0.65);
   }
@@ -1044,7 +1044,7 @@ strong {
     top: 5px;
   }
 
-  .btn-naira > span, 
+  .btn-naira > span,
   .btn-naira .btn-icon {
     font-size: 12px;
     padding: 5px 15px;
